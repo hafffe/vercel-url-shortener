@@ -1,0 +1,15 @@
+{
+	"name": "url-shorterner",
+	"version": "1.0.0",
+	"private": true,
+	"description": "URL shortener use with vercel platform",
+	"repository": "git@github.com:hafffe/vercel-url-shortener.git",
+	"author": "Aron Hafner",
+	"license": "MIT",
+	"scripts": {
+		"deploy": "now --prod"
+	},
+	"devDependencies": {
+		"vercel": "^19.1.1"
+	}
+}

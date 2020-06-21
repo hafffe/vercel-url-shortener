@@ -1,0 +1,13 @@
+{
+	"version": 2,
+	"redirects": [
+		{
+			"source": "/dotfiles",
+			"destination": "https://github.com/hafffe/dotfiles"
+		},
+		{
+			"source": "/(.*)",
+			"destination": "https://github.com/hafffe"
+		}
+	]
+}
